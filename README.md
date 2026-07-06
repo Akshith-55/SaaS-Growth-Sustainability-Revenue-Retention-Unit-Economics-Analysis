@@ -233,7 +233,7 @@ A 3-page Power BI dashboard was built on top of the same six cleaned tables used
 - **New Paid Users Trend** : line chart of new paid user acquisition over the same 24-month window
 - **MRR by country** : bar chart ranking MRR contribution by country, led by the US ahead of India, UK, Australia, France, Canada, and Germany
 
-![Revenue & Growth dashboard](images/Revenue & Growth.png)
+![Revenue & Growth dashboard](images/Revenue_&_Growth.png)
 
 ### Page 2 — Churn & Retention
 
@@ -250,7 +250,7 @@ A 3-page Power BI dashboard was built on top of the same six cleaned tables used
 - **Customer Lifecycle Funnel** : funnel from Signups (100%) through New Paid Users and Active Users (390) down to Churned Customers (110, 22%)
 - **Revenue at Risk by industry** — bar chart ranking Cybersecurity, DevTools, FinTech, and HealthTech by exposed revenue
 
-![Churn & Retention dashboard](images/Churn & Retention.png)
+![Churn & Retention dashboard](images/Churn_&_Retention.png)
 
 ### Page 3 — Customer Intelligence & Unit Economics
 
@@ -268,7 +268,7 @@ A 3-page Power BI dashboard was built on top of the same six cleaned tables used
 - **Priority vs Satisfaction** : matrix of average satisfaction score by segment and ticket priority
 - **CAC by Referral Channel** : bar chart ranking average CAC by referral source, with ads the most expensive channel and organic the least
 
-![Customer Intelligence & Unit Economics dashboard](images/Customer Intelligence & Unit Economics.png)
+![Customer Intelligence & Unit Economics dashboard](images/Customer_Intelligence_&_Unit_Economics.png)
 
 
 ---
