@@ -248,7 +248,7 @@ A 3-page Power BI dashboard was built on top of the same six cleaned tables used
 - **Churn Rate by Segment** : bar chart comparing Enterprise, SMB, and Mid-Market, with all three segments in a similar range
 - **Downgrade Rate Trend** : line chart of downgrade rate over time (Jul 2023–Jul 2024), highly volatile month to month
 - **Customer Lifecycle Funnel** : funnel from Signups (100%) through New Paid Users and Active Users (390) down to Churned Customers (110, 22%)
-- **Revenue at Risk by industry** — bar chart ranking Cybersecurity, DevTools, FinTech, and HealthTech by exposed revenue
+- **Revenue at Risk by industry**: bar chart ranking Cybersecurity, DevTools, FinTech, and HealthTech by exposed revenue
 
 ![Churn & Retention dashboard](images/Churn_&_Retention.png)
 
@@ -305,11 +305,11 @@ A 3-page Power BI dashboard was built on top of the same six cleaned tables used
 
 **Finding:** Only 17% of churned customers ever reactivate; 83% never return.
 **Evidence:** Reactivation rate calculated from churn_events.
-**Business implication:** Win-back campaigns have a structurally low ceiling — the report concludes that improving retention among active customers likely has more revenue impact than reactivation efforts.
+**Business implication:** Win-back campaigns have a structurally low ceiling, the report concludes that improving retention among active customers likely has more revenue impact than reactivation efforts.
 
 **Finding:** No single product feature clearly separates churned from retained accounts (Feature 7 shows the highest "never churned" share at 92%, but no feature shows a dominant retention effect).
 **Evidence:** Feature usage comparison between churned and retained accounts.
-**Business implication:** Breadth of feature adoption, rather than use of any one feature, may be the more meaningful retention signal — this needs account-level validation.
+**Business implication:** Breadth of feature adoption, rather than use of any one feature, may be the more meaningful retention signal, this needs account-level validation.
 
 
 **Finding:** Refund amounts are highest for churns categorized as "Unknown" reason code (₹18.34 average), ahead of Features (₹16.72), Pricing (₹14.65), Budget (₹12.00), and Support (₹11.73).
