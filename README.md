@@ -314,7 +314,7 @@ A 3-page Power BI dashboard was built on top of the same six cleaned tables used
 
 **Finding:** Refund amounts are highest for churns categorized as "Unknown" reason code (₹18.34 average), ahead of Features (₹16.72), Pricing (₹14.65), Budget (₹12.00), and Support (₹11.73).
 **Evidence:** Average refund by churn reason code.
-**Business implication:** A meaningful share of churns carry no diagnostic reason, limiting the business's ability to prioritize root-cause fixes — the report recommends adding a mandatory exit survey.
+**Business implication:** A meaningful share of churns carry no diagnostic reason, limiting the business's ability to prioritize root-cause fixes the report recommends adding a mandatory exit survey.
 
 **Finding:** Customer lifetime before churn varies sharply by referral source, Organic customers average 54 days versus 571–591 days (roughly 19 months) for Event, Other, Ads, and Partner channels. Using assumed CAC figures, all channels exceed a 3:1 LTV:CAC ratio, with Partner and Other showing the strongest capital efficiency.
 **Evidence:** Customer lifetime by referral source; LTV:CAC ratio table by channel.
@@ -325,7 +325,7 @@ A 3-page Power BI dashboard was built on top of the same six cleaned tables used
 ## Business Insights
 
 - **Growth quality is unconfirmed.** MRR is rising in aggregate, but the presence of multiple double-digit negative-growth months alongside a churn rate near double typical benchmarks means the topline number alone cannot confirm whether growth is durable or churn-masked. This is the single highest-priority open question in the analysis.
-- **Enterprise is a disproportionately valuable but underweighted segment.** It has the best unit economics on every axis measured (ARPU, LTV, NRR, churn) but the smallest revenue share — the report treats this as the clearest growth lever, conditional on validating Enterprise CAC.
+- **Enterprise is a disproportionately valuable but underweighted segment.** It has the best unit economics on every axis measured (ARPU, LTV, NRR, churn) but the smallest revenue share the report treats this as the clearest growth lever, conditional on validating Enterprise CAC.
 - **Satisfaction is uniformly weak.** All three segments score below the neutral midpoint (SMB 2.33, Midmarket 2.36, Enterprise 2.61 out of 5), suggesting a company-wide customer experience issue rather than a segment-specific one.
 - **Churn-reason data has a visibility gap.** With "Unknown" as the highest-refund churn category, the business currently lacks the structured feedback needed to prioritize retention fixes with confidence.
 
